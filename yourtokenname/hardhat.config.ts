@@ -3,6 +3,7 @@
 // To make use of automatic environment setup:
 // - Duplicate .env.example file and name it .env
 // - Fill in the environment variables
+// - take info from your infura account to change the endpoints
 import 'dotenv/config'
 
 import 'hardhat-deploy'
